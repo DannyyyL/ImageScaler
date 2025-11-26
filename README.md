@@ -2,7 +2,7 @@
 
 A small Java Swing GUI that visualizes and scales images using a quadtree representation.
 
-![Demo](./demo.gif)
+![Demo](./ImageScalar.gif)
 
 What it does
 - Builds a quadtree from an input image and renders it on a 512×512 canvas.
